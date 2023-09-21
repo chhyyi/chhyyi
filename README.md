@@ -1,9 +1,11 @@
 # Education & work experience
 I majored in Physics but I used only classical electromagnetism for many years.  
-until May 2020, as a postdoctoral researcher, I've studied metamaterials; Mainly absorbers working with microwave by computational electrodynamics simulation.   
-Last year, I took an educational course about machine learning/deep learning for about 6 months. (AIFFEL by Modulabs, Korea)  
+until May 2021, as a postdoctoral researcher, I've studied metamaterials; Mainly absorbers working with microwave by computational electrodynamics simulation.   
+In 2022, I took an educational course about machine learning/deep learning for about 6 months. (AIFFEL by Modulabs, Korea)  
+In SEP 2023, I'm hired as an postdoc researcher in UNIST, Ulsan, Korea
 
 # Repositories
+## no updates recently...
 - aiffel : What I've done during AIFFEL.
 - aiffelthon & rz_cvae : What I've done as a final project of AIFFEL. I was a member of 'red zone' team, trying to monitor&forecast red tide outbreak by CVAE(conditional variational autoencoder). I left the team because of some conflict with team. Whatever I could get some overfitted images before that happense.
 - self-study : just a self-study note added recently. various goals.
