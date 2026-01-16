@@ -1,9 +1,9 @@
 # Education & work experience
-I majored in Physics but I used only classical electromagnetism for many years.  
-until May 2021, as a postdoctoral researcher, I've studied metamaterials; Mainly absorbers working with microwave by computational electrodynamics simulation.   
-In 2022, I took an educational course about machine learning/deep learning for about 6 months. (AIFFEL by Modulabs, Korea)  
-In SEP 2023, I'm working as an postdoc researcher in UNIST, Ulsan, Korea
-In DEC 2024, I moved to QMEP lab, department of physics, ChangWon National University, Korea.
+* I majored in Physics but I used only classical electromagnetism for many years.  
+* until May 2021, as a postdoctoral researcher, I've studied metamaterials; Mainly absorbers working with microwave by computational electrodynamics simulation.   
+* 2022, I took an educational course about machine learning/deep learning for about 6 months. (AIFFEL by Modulabs, Korea)  
+* SEP 2023, I'm working as an postdoc researcher in UNIST, Ulsan, Korea  
+* DEC 2024, I moved to QMEP lab, department of physics, ChangWon National University, Korea.
 
 # Repositories
 ## Currently working on...
